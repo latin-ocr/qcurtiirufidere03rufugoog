@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qcurtiirufidere03rufugoog_0008.png"; bbox 0 0 500 908; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3 24 401 179">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3 24 401 179">
+     <span class='ocr_line' id='line_1_1' title="bbox 42 24 401 102; baseline 0.014 -14"><span class='ocrx_word' id='word_1_1' title='bbox 42 48 85 102; x_wconf 73' lang='grc' dir='ltr'><strong>ρ’,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 96 24 270 92; x_wconf 62' lang='grc' dir='ltr'>ςῑῗΚΤΠ</span> <span class='ocrx_word' id='word_1_3' title='bbox 284 58 401 94; x_wconf 84' lang='lat' dir='ltr'>RUFI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 3 112 393 179; baseline 0.005 -14"><span class='ocrx_word' id='word_1_4' title='bbox 3 177 5 179; x_wconf 30' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 62 144 114 166; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 128 143 243 167; x_wconf 80' lang='lat' dir='ltr'><em>REBUS</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 259 112 393 168; x_wconf 69' lang='lat' dir='ltr'><em>GESTIS&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 39 217 402 246">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 39 217 402 246">
+     <span class='ocr_line' id='line_1_3' title="bbox 39 217 402 246; baseline 0.006 -3"><span class='ocrx_word' id='word_1_8' title='bbox 39 217 109 245; x_wconf 87' lang='lat' dir='ltr'><strong>ALE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 115 217 260 244; x_wconf 86' lang='lat' dir='ltr'><strong>XANDRI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 279 218 402 246; x_wconf 86' lang='lat' dir='ltr'>MAGNI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 99 289 338 313">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 99 289 338 313">
+     <span class='ocr_line' id='line_1_4' title="bbox 99 289 338 313; baseline 0.008 -4"><span class='ocrx_word' id='word_1_11' title='bbox 99 289 204 313; x_wconf 55' lang='lat' dir='ltr'>LIBRI&#39;</span> <span class='ocrx_word' id='word_1_12' title='bbox 218 290 338 311; x_wconf 79' lang='lat' dir='ltr'><strong>DECEM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 126 696 378 723">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 126 696 378 723">
+     <span class='ocr_line' id='line_1_5' title="bbox 126 696 378 723; baseline -0.012 0"><span class='ocrx_word' id='word_1_13' title='bbox 126 706 151 723; x_wconf 80' lang='grc' dir='ltr'><strong>Μ,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 170 704 234 721; x_wconf 84' lang='lat' dir='ltr'>Dec.</span> <span class='ocrx_word' id='word_1_15' title='bbox 254 703 326 720; x_wconf 71' lang='grc' dir='ltr'>ινιτ.</span> <span class='ocrx_word' id='word_1_16' title='bbox 373 696 378 701; x_wconf 64' lang='grc'><strong>“’</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
